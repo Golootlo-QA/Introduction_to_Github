@@ -1,0 +1,19 @@
+Check if your GitHub account links with your local Git repository by using:
+
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+
+Now follow the following steps to push your code on Github via terminal:
+
+git init
+
+git add .
+
+git commit -m 'Add your commit message'
+
+git remote add origin https://User_name@bitbucket.org/User_name/sample.git
+
+git push -u origin master
+
