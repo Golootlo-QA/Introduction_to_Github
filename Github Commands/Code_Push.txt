@@ -20,3 +20,8 @@ git push -u origin master
 
 If this error occurs :
 error: failed to push some refs to 'URL'
+
+Try this:
+
+git commit -m "initial commit"
+git push origin main
