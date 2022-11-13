@@ -17,3 +17,6 @@ git remote add origin https://User_name@bitbucket.org/User_name/sample.git
 
 git push -u origin master
 
+
+If this error occurs :
+error: failed to push some refs to 'URL'
