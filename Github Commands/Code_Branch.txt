@@ -1,0 +1,22 @@
+Branch & Merge
+
+Isolating work in branches, changing context and integrating changes
+
+
+git branch
+{list all your branches, * will appear next to the currently active branch}
+
+git branch [branch-name]
+{create a new branch at the current commit}
+
+git checout
+{switch to another branch and check it out intto your current working directory}
+
+git checkout [branch-name]
+{switch to the branch with branch name provide in the command}
+
+git merge [branch-name]
+{merge the specigic branch's history into the current one}
+
+git log
+{show all the commits in the current branch;s history}
