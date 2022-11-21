@@ -19,5 +19,4 @@ git merge [branch-name]
 {merge the specigic branch's history into the current one}
 
 git log
-
 {show all the commits in the current branches history}
